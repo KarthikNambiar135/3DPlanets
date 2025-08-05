@@ -14,6 +14,8 @@ This is an interactive, animated 3D simulation of the Solar System built with Th
 
 ## 🖥️ Demo Preview
 
+🔗 **[Live Demo Link](https://karthiknambiar135.github.io/3DPlanets/)**
+
 ![screenshot](preview.png)
 
 ---
